@@ -126,7 +126,11 @@
           <p>Fill in your details below. You will receive payment instructions and the next delivery step after your order request is reviewed.</p>
           <p class="tiny">No public payment page yet. This helps us verify each order and deliver properly.</p>
         </div>
-        <form class="order-form" id="orderForm">
+        <form class="order-form" id="orderForm" name="tombola-order" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+          <input type="hidden" name="form-name" value="tombola-order">
+          <p hidden>
+            <label>Do not fill this out <input name="bot-field"></label>
+          </p>
           <label>
             Full name
             <input type="text" name="name" id="name" required>
@@ -139,8 +143,11 @@
             Email address (optional)
             <input type="email" name="email" id="email">
           </label>
+          <input type="hidden" name="product" value="Tombola Masterclass">
+          <input type="hidden" name="price_naira" value="4500">
           <button type="submit" class="button primary">Submit order request</button>
           <p class="form-note">By submitting, you are requesting payment instructions and online delivery details.</p>
+          <p class="tiny">Orders are captured securely through the site and reviewed before delivery.</p>
           <p id="formStatus" class="form-status" aria-live="polite"></p>
         </form>
       </div>
