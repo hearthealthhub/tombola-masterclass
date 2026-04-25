@@ -16,13 +16,21 @@
       <p class="eyebrow">Digital event skills guide</p>
       <h1>Tombola Masterclass</h1>
       <p class="subhead">Learn how to plan, call and anchor a clean, lively tombola event without guessing your way through it.</p>
+      <div class="hero-proof">
+        <span>Digital guide</span>
+        <span>Scripts and checklists included</span>
+        <span>Built for real Nigerian event flow</span>
+      </div>
       <div class="hero-card">
         <div>
           <p class="price-label">Introductory price</p>
           <p class="price">₦4,500</p>
           <p class="note">One time digital access. Payment instructions are sent after your order request.</p>
         </div>
-        <a class="button primary" href="#order">Order now</a>
+        <div class="hero-actions">
+          <a class="button primary" href="#order">Order now</a>
+          <a class="button secondary" href="guide.html" target="_blank" rel="noopener">Preview guide layout</a>
+        </div>
       </div>
     </div>
   </header>
@@ -39,6 +47,7 @@
             <li>How to avoid common mistakes that make the session feel flat or chaotic</li>
             <li>How to package the skill into a paid anchoring or event support service</li>
           </ul>
+          <p class="section-note">This is built for people who want a practical event playbook, not theory or insider jargon.</p>
         </div>
         <div class="panel">
           <h3>Inside the guide</h3>
@@ -72,6 +81,10 @@
           </article>
         </div>
       </div>
+      <div class="not-for-box">
+        <h3>Who it is not for</h3>
+        <p>If you want a generic party ebook or abstract event theory, this is not that. This guide is for people who want to confidently run a real tombola session in front of actual people.</p>
+      </div>
     </section>
 
     <section class="section">
@@ -95,6 +108,26 @@
     </section>
 
     <section class="section alt">
+      <div class="wrap">
+        <h2>What you receive after payment</h2>
+        <div class="cards deliverables-grid">
+          <article class="card">
+            <h3>Main guide</h3>
+            <p>A polished digital guide that covers planning, prize structure, scripts, delivery rhythm, and common mistakes.</p>
+          </article>
+          <article class="card">
+            <h3>Bonus assets</h3>
+            <p>Opening lines, redraw scripts, sponsor wording, run sheets, and event-day checklists.</p>
+          </article>
+          <article class="card">
+            <h3>Simple delivery</h3>
+            <p>Digital file delivery after payment confirmation, ready for reading on phone or laptop.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
       <div class="wrap">
         <h2>Frequently asked questions</h2>
         <div class="faq-list">
@@ -126,7 +159,7 @@
           <p>Fill in your details below. You will receive payment instructions and the next delivery step after your order request is reviewed.</p>
           <p class="tiny">No public payment page yet. This helps us verify each order and deliver properly.</p>
         </div>
-        <form class="order-form" id="orderForm" name="tombola-order" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+        <form class="order-form" id="orderForm" name="tombola-order" method="POST" action="/thank-you/" data-netlify="true" netlify-honeypot="bot-field">
           <input type="hidden" name="form-name" value="tombola-order">
           <p hidden>
             <label>Do not fill this out <input name="bot-field"></label>
@@ -145,11 +178,23 @@
           </label>
           <input type="hidden" name="product" value="Tombola Masterclass">
           <input type="hidden" name="price_naira" value="4500">
-          <button type="submit" class="button primary">Submit order request</button>
+          <input type="hidden" name="source" id="sourceField" value="">
+          <input type="hidden" name="submitted_at" id="submittedAtField" value="">
+          <button type="submit" class="button primary" id="submitButton">Submit order request</button>
           <p class="form-note">By submitting, you are requesting payment instructions and online delivery details.</p>
           <p class="tiny">Orders are captured securely through the site and reviewed before delivery.</p>
           <p id="formStatus" class="form-status" aria-live="polite"></p>
         </form>
+      </div>
+    </section>
+
+    <section class="section alt">
+      <div class="wrap mini-cta">
+        <div>
+          <p class="eyebrow dark">Ready to stop guessing?</p>
+          <h2>Get the playbook and run tombola like someone prepared for it.</h2>
+        </div>
+        <a class="button primary" href="#order">Reserve your copy</a>
       </div>
     </section>
 

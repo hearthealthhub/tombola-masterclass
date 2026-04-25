@@ -1,35 +1,19 @@
 const form = document.getElementById('orderForm');
-const formStatus = document.getElementById('formStatus');
+const sourceField = document.getElementById('sourceField');
+const submittedAtField = document.getElementById('submittedAtField');
+const submitButton = document.getElementById('submitButton');
 
-function encodeForm(data) {
-  return new URLSearchParams(data).toString();
+if (sourceField) {
+  sourceField.value = window.location.href;
 }
 
-form?.addEventListener('submit', async (event) => {
-  event.preventDefault();
+form?.addEventListener('submit', () => {
+  if (submittedAtField) {
+    submittedAtField.value = new Date().toISOString();
+  }
 
-  const payload = {
-    'form-name': 'tombola-order',
-    name: document.getElementById('name').value.trim(),
-    whatsapp: document.getElementById('whatsapp').value.trim(),
-    email: document.getElementById('email').value.trim(),
-    product: 'Tombola Masterclass',
-    price_naira: '4500',
-    source: window.location.href,
-    submitted_at: new Date().toISOString()
-  };
-
-  try {
-    await fetch('/', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-      body: encodeForm(payload)
-    });
-
-    formStatus.textContent = 'Order request received. Payment instructions and delivery steps will be sent after review.';
-    form.reset();
-  } catch (error) {
-    formStatus.textContent = 'There was a problem submitting your order. Please try again.';
-    console.error(error);
+  if (submitButton) {
+    submitButton.disabled = true;
+    submitButton.textContent = 'Submitting...';
   }
 });
