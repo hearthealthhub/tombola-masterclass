@@ -10,7 +10,7 @@ A poor tombola session feels confused. The caller sounds uncertain. The prizes a
 
 A good tombola session feels different. The flow is clear. The audience understands what is happening. The caller sounds confident. The tickets, prizes and sequence all make sense. The excitement grows naturally.
 
-This guide turns tombola from a vague oral skill into a practical event system. It is written for people who want to plan well, call well and run a memorable session without unnecessary confusion.
+This guide turns tombola from a vague oral skill into a practical event system. It is written for people who want to plan well, call well and run a memorable session without unnecessary confusion. It is also written for people who want to turn the skill into an event service they can offer confidently.
 
 This guide is not about secret knowledge. It is about structure, delivery and confidence.
 
@@ -21,6 +21,14 @@ At its core, tombola is a raffle style event activity built around chance, prize
 In different countries and settings, tombola has appeared in different forms. In some places it resembles bingo. In others it resembles a fairground raffle. In many Nigerian social settings, it works as a lively event segment driven by rhythm, suspense, crowd response and a confident caller.
 
 That means tombola is not just a raffle. In practice it is a performance segment inside an event.
+
+## A brief history you can use
+
+The broader tombola tradition traces back to lottery and raffle culture, especially in parts of Europe where tombola became a festive group game tied to social gatherings. Over time, similar raffle systems spread into different environments and picked up local flavor.
+
+The lesson for you is simple. Tombola survives because it works. It gives people anticipation, participation and the joy of a live result. In Nigerian settings, that live energy matters. People do not want a dead mechanical draw. They want rhythm, voice, order and suspense.
+
+That is why the caller matters so much.
 
 ## Why it still matters
 
@@ -110,14 +118,11 @@ The audience must know:
 
 The session should feel alive but not rushed.
 
-The best rhythm is controlled energy.
-Not noise. Not confusion.
+The best rhythm is controlled energy. Not noise. Not confusion.
 
 ### 6. Winner handling
 
-The way winners are confirmed matters.
-Fairness must be visible.
-If the audience does not trust the process, the mood breaks.
+The way winners are confirmed matters. Fairness must be visible. If the audience does not trust the process, the mood breaks.
 
 ## Planning the event
 
@@ -128,6 +133,11 @@ Ask:
 - is the audience seated, moving around, or mixed
 - is the tombola a short segment or a major attraction
 - are prizes symbolic, practical, premium, or sponsored
+
+### Rule of thumb
+
+If the crowd is small, keep the format quick.
+If the crowd is large, structure the session in layers so attention does not collapse halfway.
 
 ## Step 2. Decide the prize logic
 
@@ -141,6 +151,15 @@ Possible structures:
 
 Prizes should be visible if possible. Visible prizes create attention.
 
+### Good prize order example
+
+- first round: simple practical item
+- second round: slightly better household or utility gift
+- middle rounds: two or three exciting mid-level prizes
+- final round: strongest visible prize or sponsored highlight
+
+The audience should feel that the session is building toward something.
+
 ## Step 3. Set ticket logic
 
 Decide:
@@ -150,6 +169,12 @@ Decide:
 - physical tickets or printed slips
 
 If it is paid, the math must be simple. Confusing pricing reduces participation.
+
+### Simple ticket pricing logic
+
+Use clean numbers.
+Bad example: odd amounts with complicated bundles.
+Better example: one ticket for one price, three tickets for a slightly better value.
 
 ## Step 4. Build the team
 
@@ -161,6 +186,10 @@ Recommended roles:
 - prize assistant
 - recorder or verifier
 - crowd support assistant if needed
+
+### Assistant briefing rule
+
+Every assistant should know exactly one job and stay in that lane. Confusion among helpers creates public confusion.
 
 ## Step 5. Set the stage flow
 
@@ -219,8 +248,7 @@ Join us for an enjoyable gathering featuring music, connection, food and a livel
 
 A confident caller sounds calm, not strained.
 
-You do not need to sound dramatic every second.
-You need to sound in control.
+You do not need to sound dramatic every second. You need to sound in control.
 
 Your job is to:
 - make the rules clear
@@ -236,6 +264,18 @@ Use these rules:
 - keep prize announcements crisp
 - avoid mumbling numbers
 - repeat winning numbers clearly
+- pause just enough to create anticipation without sounding fake
+
+## How to sound authoritative without sounding harsh
+
+Good authority sounds clean and settled.
+Bad authority sounds tense and overbearing.
+
+Use this formula:
+- short sentences
+- clear instructions
+- calm repetition
+- no panic when there is a delay
 
 ## Opening script
 
@@ -252,13 +292,11 @@ A good caller does not just read a number. The caller frames the moment.
 Example rhythm:
 
 We are ready for the next draw.
-The room is getting warm now.
+The room is warming up now.
 Let us see who takes this one.
-The number is... 27.
+The number is 27.
 I repeat, 27.
-If you have 27, raise your hand clearly.
-
-Then confirm visibly.
+If you have 27, raise your ticket clearly.
 
 ## Prize announcement rhythm
 
@@ -295,8 +333,7 @@ Let us keep it orderly. We will verify the ticket based on the rule already anno
 
 The secret is variation.
 
-If every draw sounds equally loud, the session becomes tiring.
-If every draw sounds flat, the session becomes dull.
+If every draw sounds equally loud, the session becomes tiring. If every draw sounds flat, the session becomes dull.
 
 Use waves:
 - calm start
@@ -304,31 +341,75 @@ Use waves:
 - stronger suspense near bigger prizes
 - controlled finish
 
+## The three voice gears every caller should learn
+
+### Gear 1. Instruction mode
+
+Use this when explaining rules.
+Your tone should be slow, direct and unmistakable.
+
+### Gear 2. Suspense mode
+
+Use this just before a draw and immediately after revealing the number.
+Your tone should tighten slightly without becoming theatrical.
+
+### Gear 3. Celebration mode
+
+Use this when winners are confirmed.
+Your tone should feel warm and light so the crowd feels rewarded, not merely informed.
+
+## Practical event scenarios
+
+## Scenario 1. Small formal gathering
+
+Audience size: 30 to 60 people
+
+Best style:
+- short introduction
+- fewer prize rounds
+- calm, polished delivery
+- no shouting
+
+## Scenario 2. Large social gathering
+
+Audience size: 80 to 200 people
+
+Best style:
+- stronger pacing
+- assistants positioned clearly
+- prize visibility matters more
+- rules must be repeated once at the start
+
+## Scenario 3. Fundraising-centered event
+
+Best style:
+- explain purpose early
+- keep ticketing simple
+- maintain visible fairness
+- do not overtalk the fundraising once the session has started
+
 ## Common mistakes
 
 ### Mistake 1. Unclear rules
-
 Fix it by explaining the rules before the first draw.
 
 ### Mistake 2. Weak number calling
-
 Fix it by speaking numbers clearly and repeating them once.
 
 ### Mistake 3. Poor prize sequence
-
 Fix it by structuring prizes from lighter wins to stronger emotional peaks.
 
 ### Mistake 4. Running it alone
-
 Fix it by using at least one assistant.
 
 ### Mistake 5. Talking too much
-
 Fix it by being concise between draws.
 
 ### Mistake 6. Sounding uncertain
-
 Fix it by rehearsing opening, verification and winner lines.
+
+### Mistake 7. Letting the crowd guess the rules
+Fix it by removing ambiguity before the first ticket is drawn.
 
 ## Turning the skill into an income stream
 
@@ -344,6 +425,16 @@ I help plan and anchor a smooth tombola session for events, including ticket log
 ### How to pitch it simply
 
 If your event includes a raffle or tombola session, I can structure and call it in a way that feels smooth, lively and organized.
+
+### Starter pricing logic
+
+Charge according to:
+- event size
+- how much planning is needed
+- whether you are sourcing materials too
+- whether you are only calling or also coordinating the session
+
+Do not start by charging like a celebrity MC. Start by sounding dependable and organized.
 
 ## Tombola planning checklist
 
@@ -399,7 +490,6 @@ Thank you everyone for your energy, orderliness and participation. We appreciate
 
 ## Final note
 
-A successful tombola session is not built on luck alone.
-It is built on preparation, fairness, rhythm and confidence.
+A successful tombola session is not built on luck alone. It is built on preparation, fairness, rhythm and confidence.
 
 When you understand those four things, you stop hoping the session will go well and start knowing how to make it go well.
